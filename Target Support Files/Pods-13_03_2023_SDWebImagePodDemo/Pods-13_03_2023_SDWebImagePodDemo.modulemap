@@ -1,0 +1,6 @@
+framework module Pods_13_03_2023_SDWebImagePodDemo {
+  umbrella header "Pods-13_03_2023_SDWebImagePodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
